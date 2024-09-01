@@ -1,4 +1,6 @@
 # K6 Performance Test
+## Maintainer
+Vipul Dhingra
 
 This repository contains an advanced performance testing setup using the K6 framework, Webpack, and GitHub Actions.
 
