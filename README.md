@@ -28,3 +28,6 @@ The GitHub Actions workflow (`.github/workflows/k6-test.yml`) runs the K6 test a
 
 ## I have setuped in windows and with github . So here is my env variable path
 export PATH="/c/Program Files/nodejs:$PATH"
+
+
+Thanks
